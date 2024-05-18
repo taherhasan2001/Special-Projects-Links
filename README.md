@@ -1,7 +1,5 @@
 # Special-Projects-Links
 
-* Birzeit University schedule generator (V1): https://github.com/taherhasan2001/Beirzeit-University-generate-optimal-table-of-courses
-built using python with UI using tkinter 
 
 * Birzeit University schedule generator (V2): https://taherhasan2001.github.io/BZU/
 built using html,css and js
@@ -14,5 +12,4 @@ built using React
 built using html,css and js
 
 
-* 2 ideas to build a map for BZU : https://github.com/taherhasan2001/BZU-MAP
 
